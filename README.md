@@ -15,7 +15,7 @@ Steps to build the Dev Container:
 1. Get to the directory inside docker container by typing: $ docker exec -it web /bin/sh 
 2.  Check the directory: ls -l
 3.  Run: $ ./dummyserv 12344
-4.` Open: http://localhost:12344
+4.  Open: http://localhost:12344
 
 
 

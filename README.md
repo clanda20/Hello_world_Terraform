@@ -6,7 +6,7 @@ Hello world with a webserver in C
 ```gcc -o dummyserv dummy_serv.c```
 Steps to build the Dev Container:
 
-    1. Use this, $ git clone https://github.com/clanda20/Hello_world_Terraform to clone dummy_serv.c
+    1. Use this, $ git clone https://github.com/clanda20/Hello_world_Terraform all the needed files are there.
     2.  Run: Terraform Plan  (Terraform used the selected providers to generate the execution plan)
     3.  Run: Terraform Apply
     4.  Type in: "Yes"  when asked to "Enter Value: "  (Terraform  performs the actions described above. Only 'yes' will be accepted to approve.)`
